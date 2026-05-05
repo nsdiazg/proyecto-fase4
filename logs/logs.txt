@@ -1,3 +1,9 @@
 2026-05-02 14:13:01,006 - ERROR - Cliente no puede estar vacío
 2026-05-02 14:26:29,010 - ERROR - Cliente no puede estar vacío
 2026-05-02 14:38:02,934 - ERROR - Cliente no puede estar vacío
+2026-05-04 20:48:36,962 - ERROR - Cliente no puede estar vacío
+2026-05-04 20:48:36,987 - ERROR - Nombre vacío
+2026-05-04 21:01:41,272 - ERROR - Cliente no puede estar vacío
+2026-05-04 21:01:41,279 - ERROR - Nombre vacío
+2026-05-04 21:12:16,080 - ERROR - Cliente no puede estar vacío
+2026-05-04 21:12:16,085 - ERROR - Nombre vacío
